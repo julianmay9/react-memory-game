@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Kermit the Frog",
+    "image": "https://i.ytimg.com/vi/LxegkOG7unY/maxresdefault.jpg",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "Miss Piggy",
+    "image": "https://www.stylist.co.uk/images/app/uploads/2018/03/15112044/miss-piggy-crop-1521112872-1500x1000.jpg?w=1200&h=1&fit=max&auto=format%2Ccompress",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "Gonzo",
+    "image": "http://www.sunlessinseattle.com/wp-content/uploads/2014/09/Gonzo_opener.jpg",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "Beaker",
+    "image": "https://i.ytimg.com/vi/2IVa-G9JyUA/hqdefault.jpg",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "Rizzo the Rat",
+    "image": "https://vignette.wikia.nocookie.net/muppet/images/4/41/Rizzo-Rat.jpg/revision/latest/scale-to-width-down/300?cb=20120310123334",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "Pepe the King Prawn",
+    "image": "https://vignette.wikia.nocookie.net/muppet/images/1/11/Pepe-thumbs-up.jpg/revision/latest?cb=20120208224022",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "Camilla the Chicken",
+    "image": "https://vignette.wikia.nocookie.net/muppet/images/6/6e/CamillaJHH.jpg/revision/latest/scale-to-width-down/300?cb=20140128235241",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "Crazy Harry",
+    "image": "https://www.cooltoyreview.com/Palisades/Muppets/CrazyHarry/header.jpg",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "Zoot",
+    "image": "https://vignette.wikia.nocookie.net/muppet/images/8/8d/Zootplayingup.png/revision/latest?cb=20111019203501",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "Swedish Chef",
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcdn-image.foodandwine.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2F4_3_horizontal_-_1200x900%2Fpublic%2Fswedish-chef-ft-blog0617.jpg%3Fitok%3DVcs_KTAE&w=400&c=sc&poi=face&q=85",
+    "count": 0
+  },
+  {
+    "id": 11,
+    "name": "Fozzy Bear",
+    "image": "https://vignette.wikia.nocookie.net/muppet/images/6/66/Fozzie-bear.jpg/revision/latest/scale-to-width-down/300?cb=20070908163244",
+    "count": 0
+  },
+  {
+    "id": 12,
+    "name": "Animal",
+    "image": "https://vignette.wikia.nocookie.net/disney/images/3/35/150921-news-the-muppets-animal.jpg/revision/latest?cb=20180302201514",
+    "count": 0
+  }
+]

@@ -1,0 +1,35 @@
+.header {
+  width: 100%;
+  font-size: 30px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: black;
+  margin-bottom: 10px;
+}
+
+.logo {
+  width: 100%;
+  height: 400px;
+  background-image: url("https://vignette.wikia.nocookie.net/logopedia/images/4/4a/TheMuppetsfilm.logo_%281%29.png/revision/latest?cb=20110912010359");
+  background-size: cover;
+}
+
+.title {
+  font-size: 40px;
+  text-align: center;
+}
+
+.instructions {
+  font-size: 24px;
+  text-align: center;
+}
+
+.summary {
+  font-size: 18px;
+  text-align: justify;
+}
+
+.scores {
+  font-size: 50px;
+  font-weight: bolder;
+  text-align: center;
+}
